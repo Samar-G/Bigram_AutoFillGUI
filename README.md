@@ -7,7 +7,7 @@
 	We have also removed sections to remove some of the data because it was too big to run as it took a long time. 
 	After all of that, we ended up with over 200 thousand words.
 <br>
-<s> GUI: </s>
+<strong> GUI: </strong>
 <br>
 <br>
 <center>
