@@ -6,3 +6,10 @@
 	We also removed links and unnecessary elements. 
 	We have also removed sections to remove some of the data because it was too big to run as it took a long time. 
 	After all of that, we ended up with over 200 thousand words.
+<br>
+<bold> GUI: </bold>
+<br>
+<img src="![Screenshot 2022-06-02 030521](https://user-images.githubusercontent.com/88295264/172514969-6863ba33-b1ad-4de9-8394-2c2cc33d6f06.jpg)">
+<br>
+<img src="![Screenshot 2022-06-02 030709](https://user-images.githubusercontent.com/88295264/172515050-65874156-ed85-4b81-b87d-aa077515d2bd.jpg)">
+<br>
