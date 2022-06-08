@@ -9,8 +9,8 @@
 <br>
 <bold> GUI: </bold>
 <br>
-<img src="Screenshot 2022-06-02 030521.jpg" width="400" height="450" style="display: inline;">
-<img src="Screenshot 2022-06-02 030623.jpg" width="400" height="450" style="display: inline;">
+<img src="Screenshot 2022-06-02 030521.jpg" width="400" height="450" style="display: inline-block;">
+<img src="Screenshot 2022-06-02 030623.jpg" width="400" height="450" style="display: inline-block;">
 <br>
 <img src="Screenshot 2022-06-02 030709.jpg" width="400" height="450">
 <br>
