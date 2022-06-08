@@ -9,7 +9,7 @@
 <br>
 <bold> GUI: </bold>
 <br>
-<img src="![Screenshot 2022-06-02 030521](https://user-images.githubusercontent.com/88295264/172514969-6863ba33-b1ad-4de9-8394-2c2cc33d6f06.jpg)">
+<img href="![Screenshot 2022-06-02 030521](https://user-images.githubusercontent.com/88295264/172514969-6863ba33-b1ad-4de9-8394-2c2cc33d6f06.jpg)">
 <br>
 <img src="![Screenshot 2022-06-02 030709](https://user-images.githubusercontent.com/88295264/172515050-65874156-ed85-4b81-b87d-aa077515d2bd.jpg)">
 <br>
