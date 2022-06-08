@@ -9,8 +9,10 @@
 <br>
 <bold> GUI: </bold>
 <br>
-<img src="Screenshot 2022-06-02 030521.jpg" width="600" height="450" style="display: inline-block;">
-<img src="Screenshot 2022-06-02 030623.jpg" width="600" height="450" style="display: inline-block;">
+<center>
+<img src="Screenshot 2022-06-02 030521.jpg" width="600" height="500" style="display: inline-block;">
+<img src="Screenshot 2022-06-02 030623.jpg" width="600" height="500" style="display: inline-block;">
 <!-- <br> -->
-<img src="Screenshot 2022-06-02 030709.jpg" width="600" height="450">
+<img src="Screenshot 2022-06-02 030709.jpg" width="600" height="500">
 <br>
+</center>
