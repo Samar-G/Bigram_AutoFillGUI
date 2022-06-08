@@ -10,6 +10,7 @@
 <bold> GUI: </bold>
 <br>
 <img src="Screenshot 2022-06-02 030521.jpg" width="400" height="450">
+<img src="Screenshot 2022-06-02 030623.jpg" width="400" height="450">
 <br>
 <img src="Screenshot 2022-06-02 030709.jpg" width="400" height="450">
 <br>
