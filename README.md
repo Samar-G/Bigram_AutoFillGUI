@@ -9,7 +9,7 @@
 <br>
 <bold> GUI: </bold>
 <br>
-<img src="Screenshot 2022-06-02 030521.jpg" width="100" height="120">
+<img src="Screenshot 2022-06-02 030521.jpg" width="300" height="350">
 <br>
 <img src="![Screenshot 2022-06-02 030709](https://user-images.githubusercontent.com/88295264/172515050-65874156-ed85-4b81-b87d-aa077515d2bd.jpg)">
 <br>
