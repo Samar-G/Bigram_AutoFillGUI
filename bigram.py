@@ -109,7 +109,7 @@ for i in twoWordsFreq.items():
 
 ###############################
 # write to file
-# writeFile = open("output.csv", "w")
+writeFile = open("output.csv", "w")
 
 print("Probability table = \n")
 probability_table = print_probability_table(distinct_tokens, singleWordFreq, twoWordsFreq)
@@ -133,28 +133,28 @@ for i in range(n):
         print(probability_table[i][j], end="\t")
     print("\n")
 
-print(finDicFreqRef)
-print(ref)
-print(len(ref))
-refFin = list(set(ref))
-print(refFin)
-print(len(refFin))
+# print(finDicFreqRef)
+# print(ref)
+# print(len(ref))
+# refFin = list(set(ref))
+# print(refFin)
+# print(len(refFin))
 
-finSug = sortDic(finDicFreqRef["development"], refFin)
-print(finSug)
+# finSug = sortDic(finDicFreqRef["development"], refFin)
+# print(finSug)
 
-s = finList("development", finSug)
-print(s)
+# s = finList("development", finSug)
+# print(s)
 
-# writer = csv.writer(writeFile)
-# row = refFin
-# writer.writerow(row)
-#
-# for i in finDicFreqRef:
-#     li = []
-#     li.append(i)
-#     for j in finDicFreqRef[i]:
-#         li.append(j)
-#     writer.writerow(li)
-#
-# writeFile.close()
+writer = csv.writer(writeFile)
+row = refFin
+writer.writerow(row)
+
+for i in finDicFreqRef:
+    li = []
+    li.append(i)
+    for j in finDicFreqRef[i]:
+        li.append(j)
+    writer.writerow(li)
+
+writeFile.close()
